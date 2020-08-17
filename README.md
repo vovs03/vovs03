@@ -1,4 +1,12 @@
-### Hi there 👋
+# :alembic: Who am I?
+
+Hi there 👋. My name's **Vladimir Pavlychev** from Protvino (Russian Federation, Moscow). <br>
+I :heart: DevOps-engineering very much.
+
+## Present days
+
+Currently I'm learning & practicing `HashiCorp Terraform`
+![vovs-repo_2020-08-17](https://user-images.githubusercontent.com/21124057/90392283-3f9a9400-e097-11ea-8e5a-e7bae6fd8a87.jpg)
 
 <!--
 **vovs03/vovs03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
