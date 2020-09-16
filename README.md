@@ -5,7 +5,7 @@ I :heart: DevOps-engineering very much.
 
 ## Present days
 
-Currently I'm learning & practicing `HashiCorp Terraform`
+Currently I'm learning & practicing `HashiCorp Terraform 2020-09-16 Upd`
 ![vovs-repo_2020-08-17](https://user-images.githubusercontent.com/21124057/90392283-3f9a9400-e097-11ea-8e5a-e7bae6fd8a87.jpg)
 
 <!--
