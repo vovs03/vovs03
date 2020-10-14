@@ -3,9 +3,20 @@
 Hi there 👋. My name's **Vladimir Pavlychev** from Protvino (Russian Federation, Moscow). <br>
 I :heart: DevOps-engineering very much.
 
+## Golang
+
+- `brew upgrade go`
+
+```terminal
+==> Upgrading 1 outdated package:
+go 1.14.7 -> 1.15.2
+==> Upgrading go 1.14.7 -> 1.15.2 
+```
+
+
 ## Present days
 
-Currently I'm learning & practicing `HashiCorp Terraform 2020-09-16 Upd`
+Currently I'm learning & practicing `HashiCorp Terraform 2020-10-14 Upd`
 ![vovs-repo_2020-08-17](https://user-images.githubusercontent.com/21124057/90392283-3f9a9400-e097-11ea-8e5a-e7bae6fd8a87.jpg)
 
 <!--
