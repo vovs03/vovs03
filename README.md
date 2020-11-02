@@ -10,7 +10,8 @@ I :heart: DevOps-engineering very much.
 ```terminal
 ==> Upgrading 1 outdated package:
 go 1.14.7 -> 1.15.2
-==> Upgrading go 1.14.7 -> 1.15.2 
+...
+==> Upgrading go 1.15.2 -> 1.15.3 2020-11-02 
 ```
 
 
