@@ -1,24 +1,17 @@
 # :alembic: Who am I?
 
-Hi there 👋. My name's **Vladimir Pavlychev** from Protvino (Russian Federation, Moscow). <br>
+<div class="mynameis">
+Hi there 👋. My name's <nd class="name__decor">Vladimir Pavlychev</nd>. <br>
+
+I live in Protvino (Russian Federation, Moscow). <br>
 I :heart: DevOps-engineering very much.
+</div>
 
-## Golang
+---
 
-- `brew upgrade go`
+## :calendar: Present days
 
-```terminal
-==> Upgrading 1 outdated package:
-go 1.14.7 -> 1.15.2
-...
-==> Upgrading go 1.15.2 -> 1.15.3 2020-11-02 
-```
-
-
-## Present days
-
-Currently I'm learning & practicing `HashiCorp Terraform 2020-10-14 Upd`
-![vovs-repo_2020-08-17](https://user-images.githubusercontent.com/21124057/90392283-3f9a9400-e097-11ea-8e5a-e7bae6fd8a87.jpg)
+> :green_apple: I'm looking vacancy for 🔭 golang-developer(junior)
 
 <!--
 **vovs03/vovs03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,3 +27,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+## :hamster: Golang learning
+
+- `brew upgrade go`
+
+```terminal
+==> Upgrading 1 outdated package:
+go 1.16.6 -> 1.17
+==> Upgrading go
+  1.16.6 -> 1.17  2021-08-31
+```
+
+---
+
+## :orange_book: History
+
+- 2018 Created & published my 1st Mobile App into `https://play.google.com/store`. It's a song's book.
+  - Used stack:
+    - Cordova + Framework7 + VueJS + WebPack
+
+<style>
+.mynameis {
+    background-color: #345678;
+    color: #FFFFFF;
+    padding: 4%;
+}
+.name__decor {
+    color: yellow;
+    font-size: 140%;
+}
+</style>
