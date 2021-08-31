@@ -1,7 +1,7 @@
 # :alembic: Who am I?
 
 <div class="mynameis">
-Hi there 👋. My name's <nd class="name__decor">Vladimir Pavlychev</nd>. <br>
+Hi there 👋. My name's <nd class="name__decor">**Vladimir Pavlychev**</nd>. <br>
 
 I live in Protvino (Russian Federation, Moscow). <br>
 I :heart: DevOps-engineering very much.
@@ -49,6 +49,7 @@ go 1.16.6 -> 1.17
   - Used stack:
     - Cordova + Framework7 + VueJS + WebPack
 
+<!--
 <style>
 .mynameis {
     background-color: #345678;
@@ -60,3 +61,4 @@ go 1.16.6 -> 1.17
     font-size: 140%;
 }
 </style>
+-->
