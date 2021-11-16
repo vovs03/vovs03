@@ -1,9 +1,12 @@
 # :alembic: Who am I?
 
 <div class="mynameis">
-Hi there 👋. My name's <nd class="name__decor">**Vladimir Pavlychev**</nd>. <br>
-
-I live in Protvino (Russian Federation, Moscow). <br>
+Hi there 👋. 
+  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vovs03&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vovs03&theme=tokyonight" />
+</p>  
 I :heart: DevOps-engineering very much.
 </div>
 
