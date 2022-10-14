@@ -14,7 +14,7 @@ I :heart: DevOps-engineering very much.
 
 ## :calendar: Present days
 
-> :green_apple: I'm looking vacancy for 🔭 golang-developer(junior)
+> :microscope: I'm diving into [fullstack programmer](https://github.com/vovs03/fullstack-programmer) using :train2: `Ruby on Rails`
 
 <!--
 **vovs03/vovs03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,16 +33,10 @@ Here are some ideas to get you started:
 
 ---
 
-## :hamster: Golang learning
+## :gem: Learning
 
-- `brew upgrade go`
-
-```terminal
-==> Upgrading 1 outdated package:
-go 1.16.6 -> 1.17
-==> Upgrading go
-  1.16.6 -> 1.17  2021-08-31
-```
+> Dualboot | Sprint :four: `TaskManager. Модели.`<br>
+> 2022.09.19 - 2022.12.30
 
 ---
 
