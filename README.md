@@ -15,8 +15,8 @@ I :heart: DevOps-engineering very much.
 ## :calendar: Present days
 
 > 2024-01-01 ->  `01.01` -> 2024-03-31 <br>
-> :microscope: I'm diving into [pocket_coach](https://github.com/vovs03/pocket_coach) using 🦋 `Flutter`/`Dart`
-> v.0.1.3 released: https://pocket.tw1.ru/
+> :microscope: I'm diving into [pocket_coach](https://github.com/vovs03/pocket_coach) using 🦋 `Flutter`/`Dart`<br/>
+> v.0.3.2 released: https://pocket.tw1.ru/
 
 ---
 
